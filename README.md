@@ -1,11 +1,9 @@
 ### Hi there 👋
-🔭 I’m currently working on ...
 - 🌱 I’m currently learning the ELK stack, Kafka, Kubernetes, and javaScript
-- 💬 Ask me about 
+- 💬 Ask me about anything!
 - 📫 How to reach me: michaelyoo8@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play games
-- 
 <!--
 **myoo18/myoo18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
