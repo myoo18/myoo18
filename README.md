@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning the ELK stack, Kafka, Kubernetes, and javaScript
+- 🌱 I’m currently learning about the ELK stack, Kafka, Kubernetes, and javaScript
 - 💬 Ask me about anything!
 - 📫 How to reach me: michaelyoo8@gmail.com
 - 😄 Pronouns: He/Him
