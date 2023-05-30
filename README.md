@@ -3,7 +3,7 @@
 - 💬 Ask me about anything!
 - 📫 How to reach me: michaelyoo8@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I play games
+- ⚡ Fun fact: I love to play games:space_invader:	
 <!--
 **myoo18/myoo18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
