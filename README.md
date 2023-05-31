@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm Michael, a passionate learner and software ent
 
 #### 🔭 Currently Working On
 
-- I'm currently working on honing my skills in web development and building responsive and user-friendly interfaces.
+- I'm currently working on honing my skills in web development.
 
 #### 👯 Looking to Collaborate On
 
@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm Michael, a passionate learner and software ent
 
 #### 💼 Skills
 
-- Programming Languages: JavaScript, Python, Java, C
+- Programming Languages: JavaScript, Python, Java, C,  Go
 - Web Development: HTML, CSS
 - Databases: SQLite3, MySQL, Elasticsearch, MongoDB
 - Version Control: Git, GitHub, Gitlab
