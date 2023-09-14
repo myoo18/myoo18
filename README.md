@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-Welcome to my GitHub profile! I'm Michael, a passionate learner and software enthusiast. Here, you'll find a collection of my projects that I'm truly proud of. I believe in the power of open-source collaboration and the ability to learn from and contribute to a vibrant developer community.
+Welcome to my GitHub profile! I'm Michael, a passionate learner and software enthusiast.
 
 - 🌱 I’m currently learning about the ELK stack, Kafka, Kubernetes, and JavaScript.
 - 💬 Feel free to ask me about anything!
@@ -8,24 +8,16 @@ Welcome to my GitHub profile! I'm Michael, a passionate learner and software ent
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to play games! :space_invader:
 
-#### 🔭 Currently Working On
-
-- I'm currently working on honing my skills in web development.
-
-#### 👯 Looking to Collaborate On
-
-- I'm open to collaborating on open-source projects related to web development or any interesting software projects.
-
 #### 🤔 Seeking Help With
 
 - I'm always eager to learn and expand my knowledge. If you have expertise in any of the topics I'm currently learning or any other exciting tech, I'd appreciate your guidance!
 
 #### 💼 Skills
 
-- Programming Languages: JavaScript, Python, Java, C,  Go
+- Programming Languages: JavaScript, Python, Java, C,  GoLang
 - Web Development: HTML, CSS
 - Databases: SQLite3, MySQL, Elasticsearch, MongoDB
-- Version Control: Git, GitHub, Gitlab
+- Version Control: Git, GitHub, GitLab
 
 #### 📂 Projects
 
