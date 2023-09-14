@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm Michael, a passionate learner and software enthusiast.
 
-- 🌱 I’m currently learning about the ELK stack, Kafka, Kubernetes, and JavaScript.
+- 🌱 I’m currently learning about Operating Systems and taking a deep dive into the backbones of your systems.
 - 💬 Feel free to ask me about anything!
 - 📫 You can reach me at michaelyoo8@gmail.com.
 - 😄 Pronouns: He/Him
